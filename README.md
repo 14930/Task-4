@@ -485,29 +485,29 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👥 Authors & Acknowledgments
-
-**Development Team:**
-- Lead Developer: [Your Name]
-- Physics Engine: [Team Member]
-- 3D Modeling: [Team Member]
-
-**Special Thanks:**
-- Medical advisors for anatomical accuracy
-- Open-source community (Panda3D, NumPy)
-- Audio assets: Joshua Chivers
-
+## 📧 Contact & Development Team
+### **Project Contributor: Maryam Moustafa**
+- **Email**: maryam23shabaan@gmail.com
+- **[GitHub](https://github.com/MARYAM-MOUSTAFA-GITHUB-USERNAME)**
+- **[LinkedIn](https://linkedin.com/in/MARYAM-MOUSTAFA-LINKEDIN-USERNAME)**
+  
+### **Project Contributor: Aya Sayed**
+- **Email**: aya.sayed14827@gmail.com
+- **[GitHub](https://github.com/AYA-SAYED-GITHUB-USERNAME)**
+- **[LinkedIn](https://linkedin.com/in/AYA-SAYED-LINKEDIN-USERNAME)**
+  
+### **Project Contributor:Yousef Mahmoud**
+- **Email**: youssef.abdelrauf23@gmail.com
+- **[GitHub](https://github.com/youssefabdelrauf)**
+- **[LinkedIn](https://www.linkedin.com/in/youssef-mahmoud-abdelrauf-1905b8370?utm_source=share_via&utm_content=profile&utm_medium=member_ios)**
+  
+### **Project Contributor: Rahma Ashraf**
+- **Email**: ashrafrahma402@gmail.com
+- **[GitHub](https://github.com/rahmashraf)**
+- **[LinkedIn](https://eg.linkedin.com/in/rahma-ashraf-717012373)**
+  
 ---
-
-## 📞 Contact & Support
-
-- **Email**: support@medicalvrsuite.com
-- **Documentation**: https://docs.medicalvrsuite.com
-- **Issue Tracker**: https://github.com/yourusername/medical-vr-suite/issues
-- **Discord Community**: [Join Server]
-
----
-
+ 
 ## 🗺 Roadmap
 
 ### Version 2.1 (Q2 2024)
