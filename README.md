@@ -194,17 +194,11 @@ https://github.com/user-attachments/assets/bcbb9c1f-4b93-4e3c-9f40-33c21fb05475
 - Visualize turbinate structures
 - Practice endoscopic navigation
 
-![Nasal External](images/nasal_external.png)
-*External view of nasal model before zoom*
 
-![Nasal Internal](images/nasal_internal.png)
-*Internal cavity view showing detailed turbinate structures*
 
-![Nasal Zoom Exploration](videos/nasal_zoom_exploration.mp4)
-*Complete navigation through nasal passages from entrance to pharynx*
+https://github.com/user-attachments/assets/d908ea62-8f20-4c2d-9bee-183c8b0c5be8
 
-![Nasal Internal Squeeze](videos/nasal_internal_squeeze.mp4)
-*Demonstration of tissue interaction inside nasal cavity*
+
 
 ---
 
@@ -273,17 +267,11 @@ python cutting.py
 # Output: cut_simulation.ply
 ```
 
-![Cutting Skin Layer](images/cutting_skin_layer.png)
-*Shallow cut showing only skin layer (beige)*
 
-![Cutting Muscle Exposed](images/cutting_muscle_exposed.png)
-*Medium depth cut exposing muscle tissue (red)*
 
-![Cutting Bone Visible](images/cutting_bone_visible.png)
-*Deep incision revealing bone structure (white)*
+https://github.com/user-attachments/assets/2488f977-ea5d-49eb-b160-42616ef73733
 
-![Cutting Progression](videos/cutting_progression.mp4)
-*Time-lapse of progressive cutting from skin to bone*
+
 
 ---
 
@@ -302,14 +290,11 @@ python cutting.py
 - **Replace**: Drag tooth back to socket
 - **Rotate View**: Right-click drag
 
-![Dental Full View](images/dental_full_view.png)
-*Complete dental arch overview*
 
-![Dental Extraction](images/dental_extraction.png)
-*Tooth extraction in progress showing root structure*
 
-![Dental Extraction Demo](videos/dental_extraction_demo.mp4)
-*Full extraction and replacement procedure*
+https://github.com/user-attachments/assets/5d905c4c-0973-44ba-a437-440d2a675943
+
+
 
 ---
 
@@ -550,4 +535,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ for medical education and surgical training**
 
-*Last Updated: November 2024*
+
