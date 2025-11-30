@@ -221,14 +221,11 @@ https://github.com/user-attachments/assets/d908ea62-8f20-4c2d-9bee-183c8b0c5be8
 - Embolism simulation
 - Vascular occlusion training
 
-![Vascular Flow Normal](images/vascular_flow_normal.png)
-*Normal laminar blood flow pattern*
 
-![Vascular Clotting](images/vascular_clotting.png)
-*Clot formation and propagation visualization*
 
-![Vascular Flow Demo](videos/vascular_flow_demo.mp4)
-*Complete blood flow simulation with clotting event*
+https://github.com/user-attachments/assets/bca783c6-8e14-4dd7-bbb8-7e9516414434
+
+
 
 ---
 
