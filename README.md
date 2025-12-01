@@ -1,28 +1,20 @@
 <div align="center">
-
-# 🩺 Medical VR Simulation Suite 2.0
-
+🩺 Medical VR Simulation Suite 2.0
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Unity-2021.3+-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-  <img src="https://img.shields.io/badge/License-MIT-00C853?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="License"/>
-  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Platform"/>
+  <img src="https://img.shields.io/badge/Python-3.8+-4A90E2?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Unity-2021.3+-00D084?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+  <img src="https://img.shields.io/badge/License-MIT-B794F4?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="License"/>
+  <img src="https://img.shields.io/badge/Platform-Multi-FF6B6B?style=for-the-badge&logo=windows&logoColor=white" alt="Platform"/>
 </p>
-
 <br>
 
-> **💡 An immersive medical training platform combining realistic surgical simulations with advanced physics-based interactions for medical education**
+💡 Immersive medical training platform with realistic surgical simulations and advanced physics
 
 <br>
-
-**Medical VR Simulation Suite 2.0** is a comprehensive virtual reality training application designed for medical students and surgical trainees. The platform provides **hands-on experience** with anatomical structures and surgical procedures through **interactive simulations** powered by **real-time physics engines**.
-
+Comprehensive VR training for medical students and surgical trainees. Interactive simulations powered by real-time physics engines.
 <br>
-
----
 
 </div>
-
 ---
 
 ## 📋 Table of Contents
