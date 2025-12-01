@@ -15,7 +15,11 @@
 Comprehensive VR training for medical students and surgical trainees. Interactive simulations powered by real-time physics engines.
 <br>
 
-</div>
+<img width="1914" height="1018" alt="Screenshot 2025-12-01 144601" src="https://github.com/user-attachments/assets/8a35b296-13f2-4382-bca3-b66ddac07ba7" />
+
+
+</div> 
+
 ---
 
 ## 📋 Table of Contents
