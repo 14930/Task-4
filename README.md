@@ -572,26 +572,26 @@ The repository includes Unity C# scripts for advanced VR interactions:
 
 This project was developed by a dedicated team of medical simulation enthusiasts:
 
-### 👩‍💻 **Maryam Moustafa**
+### **Maryam Moustafa**
 - 📧 Email: maryam23shabaan@gmail.com
-- 💼 [GitHub](https://github.com/maryam305)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/maryam-moustafa-653257378)
+-  [GitHub](https://github.com/maryam305)
+-  [LinkedIn](https://www.linkedin.com/in/maryam-moustafa-653257378)
 
 
-### 👩‍💻 **Aya Sayed**
+### **Aya Sayed**
 - 📧 Email: aya.sayed14827@gmail.com
-- 💼 [GitHub](https://github.com/14930)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/aya-sayed-bb6a80397?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+-  [GitHub](https://github.com/14930)
+-  [LinkedIn](https://www.linkedin.com/in/aya-sayed-bb6a80397?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
-### 👨‍💻 **Yousef Mahmoud**
+### **Yousef Mahmoud**
 - 📧 Email: youssef.abdelrauf23@gmail.com
-- 💼 [GitHub](https://github.com/youssefabdelrauf)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/youssef-mahmoud-abdelrauf-1905b8370)
+-  [GitHub](https://github.com/youssefabdelrauf)
+-  [LinkedIn](https://www.linkedin.com/in/youssef-mahmoud-abdelrauf-1905b8370)
 
-### 👩‍💻 **Rahma Ashraf**
+### **Rahma Ashraf**
 - 📧 Email: ashrafrahma402@gmail.com
-- 💼 [GitHub](https://github.com/rahmashraf)
-- 🔗 [LinkedIn](https://eg.linkedin.com/in/rahma-ashraf-717012373)
+-  [GitHub](https://github.com/rahmashraf)
+-  [LinkedIn](https://eg.linkedin.com/in/rahma-ashraf-717012373)
 
 ---
 
