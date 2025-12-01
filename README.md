@@ -242,11 +242,16 @@ https://github.com/user-attachments/assets/f5ffdb60-26a9-4c52-b55e-6d146c49a170
 - 👁️ Real-time tissue response during cavity exploration
 
 **🎮 Controls:**
-- ** Zoom**: Mouse scroll wheel or designated keys
-- ** Navigate**: `W/A/S/D` for camera movement inside cavity
-- ** Squeeze**: Left-click on internal structures
-- ** Rotate View**: Right-click and drag
+- **Zoom**: Mouse scroll wheel or designated keys
+- **Navigate**: `W/A/S/D` for camera movement inside cavity
+- **Squeeze**: Left-click on internal structures
+- **Rotate View**: Right-click and drag
 
+**🏥 Clinical Applications:**
+- 🧭 Turbinate structure visualization
+- 🔍 Sinus cavity exploration
+- 🔄 Endoscopic procedure practice
+- 📋 Septal deviation assessment
 
 **📹 Demo:**
 
