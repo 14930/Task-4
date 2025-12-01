@@ -591,7 +591,9 @@ This project was developed by a dedicated team of medical simulation enthusiasts
 -  [GitHub](https://github.com/rahmashraf)
 -  [LinkedIn](https://eg.linkedin.com/in/rahma-ashraf-717012373)
 
+
 ---
+
 
 ## 🗺️ Roadmap
 
@@ -607,7 +609,9 @@ This project was developed by a dedicated team of medical simulation enthusiasts
 - [ ]  Cloud-based patient record synchronization
 - [ ]  Web-based deployment for browser access
 
+
 ---
+
 
 ## 📊 Performance Metrics
 
@@ -622,16 +626,9 @@ This project was developed by a dedicated team of medical simulation enthusiasts
 - Recommended: 50,000 - 100,000 vertices
 - Maximum tested: 500,000 vertices
 
----
-
-## 🔐 Privacy & Data Security
-
-- 🔒 All patient records stored locally only
-- 🚫 No telemetry or data collection to external servers
-- 🏥 HIPAA compliance considerations for institutional deployment
-- 🔐 Encrypted storage option available for sensitive data
 
 ---
+
 
 ## 📄 License
 
