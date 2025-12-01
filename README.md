@@ -527,8 +527,6 @@ The repository includes Unity C# scripts for advanced VR interactions:
 | **PowerKnife.cs** | Advanced cutting | Dual cutting modes, variable depth |
 | **SimpleExtraction.cs** | Dental extraction | Velocity-based extraction detection |
 
-> 📌 **Note**: Unity project files are not included due to GitHub's file size limitations. Only C# scripts are provided for reference and integration into existing Unity projects.
-
 ---
 
 ### 🐛 Troubleshooting
