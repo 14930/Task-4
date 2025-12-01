@@ -570,13 +570,14 @@ This project was developed by a dedicated team of medical simulation enthusiasts
 
 ### 👩‍💻 **Maryam Moustafa**
 - 📧 Email: maryam23shabaan@gmail.com
-- 💼 [GitHub](https://github.com/maryam-moustafa)
-- 🔗 [LinkedIn](https://linkedin.com/in/maryam-moustafa)
+- 💼 [GitHub](https://github.com/maryam305)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/maryam-moustafa-653257378)
+
 
 ### 👩‍💻 **Aya Sayed**
 - 📧 Email: aya.sayed14827@gmail.com
-- 💼 [GitHub](https://github.com/aya-sayed)
-- 🔗 [LinkedIn](https://linkedin.com/in/aya-sayed)
+- 💼 [GitHub](https://github.com/14930)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aya-sayed-bb6a80397?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ### 👨‍💻 **Yousef Mahmoud**
 - 📧 Email: youssef.abdelrauf23@gmail.com
@@ -659,8 +660,15 @@ Special thanks to:
 ## 📧 Contact & Development Team
 ### **Project Contributor: Maryam Moustafa**
 - **Email**: maryam23shabaan@gmail.com
-- **[GitHub](https://github.com/MARYAM-MOUSTAFA-GITHUB-USERNAME)**
-- **[LinkedIn](https://linkedin.com/in/MARYAM-MOUSTAFA-LINKEDIN-USERNAME)**
+  
+- [GitHub](https://github.com/maryam305)
+- [LinkedIn](https://www.linkedin.com/in/maryam-moustafa-653257378)
+- 
+**Project Contributor**: Aya Sayed
+- Email: aya.sayed14827@gmail.com
+- [GitHub](https://github.com/14930)
+- [LinkedIn](https://www.linkedin.com/in/aya-sayed-bb6a80397?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+  
   
 ### **Project Contributor: Aya Sayed**
 - **Email**: aya.sayed14827@gmail.com
